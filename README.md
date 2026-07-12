@@ -1,18 +1,27 @@
 ---
-description: "A practical handbook for building real things with AI."
+description: "写给每一个想在 AI 时代亲手创造的人。"
 icon: hand-wave
 ---
 # AI Builder Handbook
-A practical, hands-on guide for building real things with AI. It moves from first principles to production, one small step at a time.
-## Who this is for
-Anyone who wants to build with AI and prefers learning by doing. No deep machine-learning background is assumed.
-## How this handbook is organized
-- **Part 1 · Foundations** — the ideas and vocabulary you need first.
-- **Part 2 · Tools & Setup** — the toolchain and a clean environment.
-- **Part 3 · Building Blocks** — prompts, context, agents, tools, and memory.
-- **Part 4 · Workflows** — planning, execution, review, and testing.
-- **Part 5 · Patterns & Recipes** — reusable patterns and worked examples.
-- **Part 6 · Going to Production** — evaluation, safety, and deployment.
-- **Appendix** — glossary and references.
-## Start here
-New to this? Begin with [What Is an AI Builder](foundations/what-is-an-ai-builder.md).
+
+写给每一个想在 AI 时代亲手创造的人。这本书讲的不是如何"使用" AI，而是如何成为一个用 AI 创造价值、建立长期资产的 **AI Builder**。
+
+## 这本书写给谁
+
+- 想从 AI 的使用者，进化为 AI 的创造者的人
+- 想用 AI 构建自己的产品、内容与个人公司的人
+- 相信未来属于创造者，并愿意现在就开始动手的人
+
+不需要深厚的机器学习背景，只需要愿意动手去做。
+
+## 这本书怎么组织
+
+- **Part 1 · AI 时代的新世界观** —— 看清这个属于个人创造者的新时代。
+- **Part 2 · AI Builder 能力体系** —— 成为 AI Builder 所需的五项核心能力。
+- **Part 3 · AI Builder 实践系统** —— 从学习到构建、从第一个产品到第一个用户。
+- **Part 4 · 建立你的 AI 时代个人公司** —— 一个人的公司与增长飞轮。
+- **Part 5 · 全球 AI Builder** —— 走向全球，成为未来十年的创造者。
+
+## 从这里开始
+
+第一次读？从 [AI 正在创造一个新的个人时代](part1-worldview/new-personal-era.md) 开始。
